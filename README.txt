@@ -38,7 +38,7 @@ A Flask-based web application that compares a job description to multiple resume
 ## 🔧 Installation & Run Locally
 
 ```bash
-git clone https://github.com/yourusername/resume-matcher.git
+git clone https://github.com/Subarna013/resume-matcher.git
 cd resume-matcher
 pip install -r requirements.txt
 python app.py
